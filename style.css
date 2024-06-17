@@ -93,7 +93,7 @@ h1{
 }
 
 H2 {
-    font-family: idroid;
+    font-family: var(--fonte-android);
     color: #1b672a;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     border-radius: 10px;
@@ -106,7 +106,7 @@ main > img{
 }
 
 main img.pequena {
-    max-width: 350px;
+    max-width: 320px;
     display: block;
     margin: auto;
 }
