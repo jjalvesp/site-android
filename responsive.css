@@ -1,0 +1,6 @@
+@media (max-widht:895px){
+    .boximage {
+        border: 10px solid red !important;
+        display: flex;
+    }
+}
